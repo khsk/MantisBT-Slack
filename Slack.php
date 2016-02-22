@@ -29,9 +29,9 @@ class SlackPlugin extends MantisPlugin {
         $this->requires = array(
             'MantisCore' => '>= 1.2.0',
         );
-        $this->author = 'Karim Ratib';
-        $this->contact = 'karim@meedan.com';
-        $this->url = 'http://meedan.com';
+        $this->author = 'khsk';
+        $this->contact = '';
+        $this->url = 'https://github.com/khsk';
     }
 
     function install() {
