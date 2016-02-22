@@ -19,7 +19,7 @@
  */
 
 $s_plugin_Slack_ = '';
-$s_plugin_Slack_title = 'Slack Integration';
+$s_plugin_Slack_title = 'Slack Integration By khsk';
 $s_plugin_Slack_description = 'Adds Slack integration to Mantis.';
 $s_plugin_Slack_config = 'Configuration';
 $s_plugin_Slack_channel = 'Slack Channel';
